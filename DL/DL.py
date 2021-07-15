@@ -1,5 +1,8 @@
 #DL models
 
+# This code was used only for hyperparamter optimization for two DL models. In order to get the prediction accuracies use the selected hyperparameter to train under cross and indepdent
+# prediction scenario with 200 replications.
+# In case you have question related to code, send an email at k.sandhu@wsu.edu
 
 # Import these libraries
 from sklearn.neural_network import MLPRegressor
